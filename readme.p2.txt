@@ -1,2 +1,2 @@
 Name: Ben Melnick
-email: bmelnick3@gatech.edu
+Email: bmelnick3@gatech.edu
